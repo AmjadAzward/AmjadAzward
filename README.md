@@ -67,13 +67,15 @@
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amjadazward&show_icons=true&theme=radical&count_private=true&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amjadazward&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amjadazward&show_icons=true&theme=radical&count_private=true&hide_border=true" width="46%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amjadazward&theme=radical&hide_border=true" width="46%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amjadazward&layout=compact&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amjadazward&layout=compact&theme=radical&hide_border=true" width="46%" />
 </p>
+
+
 
 ---
 
@@ -85,13 +87,6 @@
   <a href="https://www.leetcode.com/amjadazward" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="50" />
   </a>
-</p>
-
----
-
-## 🎵 Now Playing  
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
 </p>
 
 ---
