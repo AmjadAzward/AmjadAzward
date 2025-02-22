@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amjad Azward</h1>
 <h3 align="center">A Passionate Software Engineering Student | Tech Enthusiast | Problem Solver</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amjadazward&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
 ---
 
 ## 🚀 About Me  
@@ -65,20 +61,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amjadazward&show_icons=true&theme=radical&count_private=true&hide_border=true" width="46%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amjadazward&theme=radical&hide_border=true" width="46%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amjadazward&layout=compact&theme=radical&hide_border=true" width="46%" />
-</p>
-
-
-
----
-
 ## 📫 Connect With Me  
 <p align="center">
   <a href="https://www.linkedin.com/in/amjad-a-076262297" target="_blank">
@@ -90,9 +72,3 @@
 </p>
 
 ---
-
-
-## 🏆 GitHub Achievements  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amjadazward&theme=radical&margin-w=10&margin-h=10&no-frame=true" alt="GitHub Trophies" />
-</p>
