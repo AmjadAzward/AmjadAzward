@@ -1,7 +1,6 @@
 <p align="center">
   <img width="80%" alt="Hello, I'm Amjad!" src="https://i.imgur.com/ihKCpZG.png" />
 </p>
-
 <br />
 
 I'm a passionate **Software Engineering Student** from 🇱🇰 Sri Lanka.  
