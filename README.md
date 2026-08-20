@@ -1,3 +1,4 @@
+
 <div align="center">
 
 # `GET /amjad`
@@ -33,11 +34,15 @@ Content-Type: human/data-leaning
 
 | layer | tools |
 |---|---|
-| **languages** | Python · SQL · Java · JavaScript |
-| **data & ml** | Pandas, NumPy-style workflows · statistical modeling (ANOVA, hypothesis testing) |
-| **databases** | MySQL · SQL Server · Oracle |
-| **visualization / apps** | React |
-| **design** | Figma · Photoshop |
+| **languages** | Python · R · Java · C · C# · JavaScript · PHP |
+| **data & ml** | SQL · PL/SQL · ML Basics · statistical modeling (ANOVA, hypothesis testing) |
+| **databases** | MySQL · Oracle · SQLite · MongoDB · Firebase |
+| **cloud** | AWS |
+| **web** | HTML · CSS · React · Node.js · REST APIs |
+| **engineering practice** | OOP · SDLC · Design Patterns |
+| **BI & ETL** | Power BI · Apache Hop |
+| **tools** | Git · VS Code · IntelliJ · Android Studio · Postman · Figma |
+| **other** | Project Management |
 
 <br/>
 
@@ -65,8 +70,8 @@ Content-Type: human/data-leaning
 ### `/uptime`
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AmjadAzward&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400" alt="stats" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmjadAzward&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="160" />
+<img src="https://github-stats-extended.vercel.app/api?username=AmjadAzward&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="stats" height="160" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AmjadAzward&layout=compact&theme=tokyonight&hide_border=true" height="160" />
 </div>
 
 <br/>
