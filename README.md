@@ -1,7 +1,6 @@
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:A8E6CF,50:DCE9FF,100:FFD3B6&height=120&section=header&text=amjad.describe()&fontSize=38&fontColor=333333&fontAlignY=55&animation=fadeIn" alt="header" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1500&color=2EC4B6&center=true&vCenter=true&width=500&height=60&lines=amjad.describe()" alt="heading" />
 
 <sub>Data Science Undergraduate · Sri Lanka 🇱🇰</sub>
 
