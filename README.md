@@ -1,6 +1,7 @@
+
 <div align="center">
 
-# `amjad.describe()`
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:A8E6CF,50:DCE9FF,100:FFD3B6&height=120&section=header&text=amjad.describe()&fontSize=38&fontColor=333333&fontAlignY=55&animation=fadeIn" alt="header" />
 
 <sub>Data Science Undergraduate · Sri Lanka 🇱🇰</sub>
 
