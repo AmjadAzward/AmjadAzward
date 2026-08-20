@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1500&color=2EC4B6&center=true&vCenter=true&width=500&height=60&lines=amjad.describe()" alt="heading" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1500&color=2EC4B6&center=true&vCenter=true&width=500&height=60&lines=amjad.describe();amjad.skills();amjad.status()" alt="heading" />
 
 <sub>Data Science Undergraduate · Sri Lanka 🇱🇰</sub>
 
