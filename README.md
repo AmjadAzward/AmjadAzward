@@ -1,36 +1,32 @@
-
 <div align="center">
 
-# `GET /amjad`
+# `amjad.describe()`
 
-<sub>Data Science Undergraduate · Sri Lanka 🇱🇰 · returns 200 most days</sub>
+<sub>Data Science Undergraduate · Sri Lanka 🇱🇰</sub>
 
 </div>
 
 <br/>
 
-```jsonc
-// Request
-GET /amjad HTTP/1.1
-Host: nibm.lk
-Accept: coffee/black, problems/interesting
+```python
+>>> import amjad as me
 
-// Response
-HTTP/1.1 200 OK
-Content-Type: human/data-leaning
-
+>>> me.summary()
 {
-  "role": "Data Science undergraduate @ NIBM",
-  "focus": ["statistical modeling", "machine learning", "data engineering"],
-  "currently_exploring": "AI agent architectures",
-  "org": "Design Team, IEEE Student Branch NIBM",
-  "status": "still fitting the curve..."
+    "role": "Data Science undergraduate @ NIBM",
+    "focus": ["statistical modeling", "machine learning", "data engineering"],
+    "currently_exploring": "AI agent architectures",
+    "org": "Design Team, IEEE Student Branch NIBM",
+    "status": "still fitting the curve..."
 }
+
+>>> me.dtype
+'perpetually learning'
 ```
 
 <br/>
 
-### `/stack` — dependencies I actually use
+### `df.stack()` — the tools in my pipeline
 
 | layer | tools |
 |---|---|
@@ -46,18 +42,20 @@ Content-Type: human/data-leaning
 
 <br/>
 
-### `/philosophy` — how I approach a problem
+### `for step in approach:`
 
-```
-1. understand the data before touching the model
-2. every anomaly is a clue, not noise to ignore
-3. a good visualization is a conversation, not decoration
-4. a result isn't done until it holds up under scrutiny
+```python
+def solve(problem):
+    explore(problem.data)          # never model what you haven't looked at
+    question(problem.anomalies)    # noise is a clue, not an inconvenience
+    visualize(problem.findings)    # a chart should argue a point, not decorate one
+    validate(problem.result)       # p < 0.05 isn't the finish line, it's a checkpoint
+    return problem.result
 ```
 
 <br/>
 
-### `/log` — recent commits to my own knowledge base
+### `git log --author=amjad --since="recently"`
 
 - Working through AI agent design & orchestration patterns
 - Studied two-way ANOVA — hypothesis formulation, Correction Factor method, LSM in R & SAS
@@ -67,7 +65,7 @@ Content-Type: human/data-leaning
 
 <br/>
 
-### `/uptime`
+### `plt.show()` — the numbers behind the numbers
 
 <div align="center">
 <img src="https://github-stats-extended.vercel.app/api?username=AmjadAzward&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="stats" height="160" />
@@ -76,7 +74,7 @@ Content-Type: human/data-leaning
 
 <br/>
 
-### `/connect`
+### `me.contact()`
 
 <div align="center">
 
@@ -88,5 +86,5 @@ Content-Type: human/data-leaning
 <br/>
 
 <div align="center">
-<sub>curl -X POST /amjad/collab -d "topic=data | ml | agents"</sub>
+<sub>model.fit(collaboration, topic=["data", "ml", "agents"])</sub>
 </div>
