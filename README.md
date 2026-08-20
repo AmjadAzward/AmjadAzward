@@ -86,5 +86,5 @@ def solve(problem):
 <br/>
 
 <div align="center">
-<sub>model.fit(collaboration, topic=["data", "ml", "agents"])</sub>
+<sub>💬 Open to collaborating on <b>data science</b>, <b>machine learning</b>, and <b>AI agent</b> projects</sub>
 </div>
