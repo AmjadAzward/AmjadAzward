@@ -1,67 +1,87 @@
-<h1 align="center">Hi, I'm Amjad 👋</h1>
-<p align="center"><i>I build things, break things, then figure out why they broke.</i></p>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0A66C2&center=true&vCenter=true&width=500&lines=Software+Engineering+Student+%F0%9F%87%B1%F0%9F%87%B0;Backend+%2B+System+Design+Enthusiast;Currently+exploring+AI+%26+Agent+Architectures;Turning+coffee+into+code+since+2022" alt="Typing SVG" />
-</p>
+# `GET /amjad`
+
+<sub>Data Science Undergraduate · Sri Lanka 🇱🇰 · returns 200 most days</sub>
+
+</div>
 
 <br/>
 
-## 🧭 Currently
+```jsonc
+// Request
+GET /amjad HTTP/1.1
+Host: nibm.lk
+Accept: coffee/black, problems/interesting
 
-```txt
-> location:     Sri Lanka
-> studying:     HND in Software Engineering @ NIBM
-> building:     backend systems + interactive UIs
-> exploring:    Spring Boot internals, cloud infra, AI agent design
-> ieee:         Design Team @ IEEE Student Branch, NIBM
-> ask me about: Java, React, SQL, system design
+// Response
+HTTP/1.1 200 OK
+Content-Type: human/data-leaning
+
+{
+  "role": "Data Science undergraduate @ NIBM",
+  "focus": ["statistical modeling", "machine learning", "data engineering"],
+  "currently_exploring": "AI agent architectures",
+  "org": "Design Team, IEEE Student Branch NIBM",
+  "status": "still fitting the curve..."
+}
 ```
 
-## 🧩 How I Think About Code
+<br/>
 
-I care less about "does it work" and more about "does it hold up." That means:
+### `/stack` — dependencies I actually use
 
-- 🏗️ **Architecture first** — I sketch the system before I touch the syntax
-- 🔍 **Debugging as a skill, not a chore** — every bug is a clue
-- 🎨 **Design isn't decoration** — a good UI is a good conversation with the user
-- 📚 **Always mid-course** — right now that's agent workflows and applied AI tooling
+| layer | tools |
+|---|---|
+| **languages** | Python · SQL · Java · JavaScript |
+| **data & ml** | Pandas, NumPy-style workflows · statistical modeling (ANOVA, hypothesis testing) |
+| **databases** | MySQL · SQL Server · Oracle |
+| **visualization / apps** | React |
+| **design** | Figma · Photoshop |
 
-## 🛠️ Toolbox
+<br/>
 
-<p align="left">
-<img height="28" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-<img height="28" alt="Spring" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg">
-<img height="28" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-<img height="28" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-<img height="28" alt="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-<img height="28" alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-<img height="28" alt="SQL Server" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg">
-<img height="28" alt="Oracle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
-<img height="28" alt="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-<img height="28" alt="Photoshop" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
-</p>
+### `/philosophy` — how I approach a problem
 
-## 📈 The Numbers
+```
+1. understand the data before touching the model
+2. every anomaly is a clue, not noise to ignore
+3. a good visualization is a conversation, not decoration
+4. a result isn't done until it holds up under scrutiny
+```
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmjadAzward&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Amjad's github stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmjadAzward&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmjadAzward&theme=tokyonight&hide_border=true" alt="streak stats" height="165" />
-</p>
+### `/log` — recent commits to my own knowledge base
 
-## 🔗 Find Me Elsewhere
+- Working through AI agent design & orchestration patterns
+- Studied two-way ANOVA — hypothesis formulation, Correction Factor method, LSM in R & SAS
+- Built a semantic network + knowledge representation model for a hospital domain (Draw.io + Python)
+- Sketching event experiences with the IEEE SB NIBM Design Team
+- Long-term: turning coursework into real, defensible data pipelines
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/amjad-a-076262297" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/amjadazward" target="_blank">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
-</p>
+<br/>
 
-<p align="center"><sub>💬 Open to chats about backend architecture, agent tooling, or why your React state keeps re-rendering.</sub></p>
+### `/uptime`
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=AmjadAzward&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400" alt="stats" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmjadAzward&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="160" />
+</div>
+
+<br/>
+
+### `/connect`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amjad-a-076262297)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/amjadazward)
+
+</div>
+
+<br/>
+
+<div align="center">
+<sub>curl -X POST /amjad/collab -d "topic=data | ml | agents"</sub>
+</div>
