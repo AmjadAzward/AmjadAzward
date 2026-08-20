@@ -79,7 +79,12 @@ def solve(problem):
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amjad-a-076262297)
+[![X](https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AmjadAzward)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/amjadazward)
+[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/SL_Spark)
+[![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/amjadazward)
+[![Credly](https://img.shields.io/badge/-Credly-FF6C00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/mohamed-amjad.1b89812f)
+[![Microsoft Learn](https://img.shields.io/badge/-Microsoft%20Learn-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/amjadazward-4476/)
 
 </div>
 
