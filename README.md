@@ -99,7 +99,7 @@ flowchart LR
 <img src="https://img.shields.io/badge/Power%20BI-0F2027?style=for-the-badge&logo=powerbi&logoColor=2EC4B6" />
 <img src="https://img.shields.io/badge/Apache%20Hop-0F2027?style=for-the-badge&logo=apache&logoColor=2EC4B6" />
 <img src="https://img.shields.io/badge/n8n-0F2027?style=for-the-badge&logo=n8n&logoColor=2EC4B6" />
-<img src="https://img.shields.io/badge/Portant-0F2027?style=for-the-badge&logoColor=2EC4B6" />
+<img src="https://img.shields.io/badge/Portant-0F2027?style=for-the-badge" />
 <br/>
 <img src="https://img.shields.io/badge/Statistical%20Modeling-0F2027?style=for-the-badge" />
 <img src="https://img.shields.io/badge/REST%20APIs-0F2027?style=for-the-badge" />
@@ -153,19 +153,16 @@ pie showData
 
 <div align="center">
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmjadAzward&theme=tokyonight" width="95%" />
+
+<br/><br/>
+
 <img src="https://github-stats-extended.vercel.app/api?username=AmjadAzward&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=github&bg_color=0F2027&title_color=2EC4B6&icon_color=2EC4B6&text_color=ffffff" height="170" />
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AmjadAzward&layout=donut&hide_border=true&bg_color=0F2027&title_color=2EC4B6&text_color=ffffff" height="170" />
 
 <img src="https://streak-stats.demolab.com?user=AmjadAzward&hide_border=true&background=0F2027&ring=2EC4B6&fire=2EC4B6&currStreakLabel=2EC4B6&sideLabels=ffffff&dates=98C1D9&currStreakNum=ffffff&sideNums=ffffff" height="170" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmjadAzward&bg_color=0F2027&color=ffffff&line=2EC4B6&point=ffffff&area=true&area_color=2EC4B6&hide_border=true&custom_title=commit%20time%20series" width="95%" />
-
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AmjadAzward/AmjadAzward/output/github-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/AmjadAzward/AmjadAzward/output/github-snake.svg" alt="snake eating contributions" />
-</picture>
 
 </div>
 
