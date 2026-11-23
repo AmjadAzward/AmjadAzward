@@ -19,15 +19,26 @@
 <tr>
 <td width="55%" valign="top">
 
-### hey, I'm Amjad 👋
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1200&color=2EC4B6&vCenter=true&width=420&height=40&lines=hey%2C+I'm+Amjad+%F0%9F%91%8B;outlier+investigator+%F0%9F%94%8D;data+whisperer+in+training+%F0%9F%A7%A0" />
 
-I'm a **Data Science undergraduate** who gets genuinely excited when a messy dataset starts making sense.
+**Data Science undergrad @ NIBM** 🇱🇰<br/>
+<sub><i>I live for the moment a messy dataset finally clicks.</i></sub>
 
-I like the whole journey: pulling raw data, questioning every outlier, building models I can **defend**, and turning results into charts that actually argue a point.
+<br/>
 
-Right now I'm deep into **AI agent architectures**, and outside the notebook I design event experiences with the **IEEE Student Branch NIBM** Design Team.
+<b>⚙️ how I work</b>
 
-**🎯 Looking for:** internships & junior roles in data science, ML or data engineering.
+🗃️ &nbsp;**pull** the raw, messy data<br/>
+🔍 &nbsp;**interrogate** every outlier<br/>
+🧠 &nbsp;**build** models I can defend<br/>
+📊 &nbsp;**plot** charts that argue a point
+
+<br/>
+
+<b>📡 right now</b>
+
+🤖 &nbsp;deep into **AI agent architectures**<br/>
+🎨 &nbsp;designing events with the **IEEE SB NIBM** Design Team
 
 </td>
 <td width="45%" valign="top">
@@ -47,6 +58,10 @@ dtype         = "perpetually learning"
 </td>
 </tr>
 </table>
+
+> [!TIP]
+> **🟢 Open to work:** internships & junior roles in **data science · ML · data engineering**.
+> Let's talk → [LinkedIn](https://www.linkedin.com/in/amjad-a-076262297) · [Email](mailto:amjadazward693@gmail.com)
 
 <br/>
 
