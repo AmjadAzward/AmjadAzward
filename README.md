@@ -1,199 +1,196 @@
-<!-- ═══════════════════════ HEADER ═══════════════════════ -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2EC4B6&height=200&section=header&text=Amjad%20Azward&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=data%20science%20%C2%B7%20statistics%20%C2%B7%20machine%20learning&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0F2027,50:203A43,100:2EC4B6&height=230&section=header&text=Amjad%20Azward&fontSize=60&fontColor=ffffff&fontAlignY=40&desc=I%20make%20data%20confess.&descSize=18&descAlignY=62&animation=twinkling" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2EC4B6&center=true&vCenter=true&width=620&lines=finding+signal+in+the+noise.;turning+raw+data+into+decisions.;building+AI+agents+that+actually+help.;currently+open+to+work+%E2%9C%A6" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=2EC4B6&center=true&vCenter=true&multiline=false&width=700&lines=%3E+loading+dataset...+done.;%3E+cleaning+noise...+done.;%3E+fitting+model...+r%C2%B2+%3D+0.97;%3E+status%3A+OPEN+TO+WORK+%E2%9C%A6" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/●%20OPEN%20TO%20WORK-2EC4B6?style=for-the-badge&labelColor=0F2027" />
-<img src="https://img.shields.io/badge/📍%20Sri%20Lanka-0F2027?style=for-the-badge" />
-<img src="https://img.shields.io/badge/🎓%20NIBM-0F2027?style=for-the-badge" />
-<img src="https://komarev.com/ghpvc/?username=AmjadAzward&style=for-the-badge&color=0F2027&label=VISITORS" />
+<img src="https://img.shields.io/badge/●%20AVAILABLE%20FOR%20WORK-2EC4B6?style=for-the-badge&labelColor=0F2027" />
+<img src="https://img.shields.io/badge/DATA%20SCIENCE%20@%20NIBM-0F2027?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🇱🇰%20SRI%20LANKA-0F2027?style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=AmjadAzward&style=for-the-badge&color=0F2027&label=👀%20VIEWS" />
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════ CELL 1 ═══════════════════════ -->
+<table>
+<tr>
+<td width="55%" valign="top">
 
-<sub>`In [1]:`</sub>
+### hey, I'm Amjad 👋
+
+I'm a **Data Science undergraduate** who gets genuinely excited when a messy dataset starts making sense.
+
+I like the whole journey: pulling raw data, questioning every outlier, building models I can **defend**, and turning results into charts that actually argue a point.
+
+Right now I'm deep into **AI agent architectures**, and outside the notebook I design event experiences with the **IEEE Student Branch NIBM** Design Team.
+
+**🎯 Looking for:** internships & junior roles in data science, ML or data engineering.
+
+</td>
+<td width="45%" valign="top">
 
 ```python
-from amjad import Profile
+>>> amjad.status()
 
-me = Profile()
-me.about()
+open_to_work  = True
+focus         = ["statistics",
+                 "machine learning",
+                 "data engineering"]
+exploring     = "AI agents"
+coffee_level  = "dangerously high"
+dtype         = "perpetually learning"
 ```
 
-<sub>`Out[1]:`</sub>
-
-```yaml
-name:              Amjad Azward
-role:              Data Science Undergraduate @ NIBM
-based_in:          Sri Lanka 🇱🇰
-focus:             [statistical modeling, machine learning, data engineering]
-exploring:         AI agent architectures & orchestration
-community:         Design Team — IEEE Student Branch NIBM
-open_to_work:      True   # internships · junior data / ML roles
-```
+</td>
+</tr>
+</table>
 
 <br/>
 
-<!-- ═══════════════════════ CELL 2 ═══════════════════════ -->
-
-<sub>`In [2]:`</sub>
-
-```python
-me.describe()
-```
-
-<sub>`Out[2]:`</sub>
+## 🧬 `model.feature_importances_`
+<sub>what actually drives my work, according to a very biased model</sub>
 
 ```text
-               value
-curiosity      unbounded
-coffee         high variance
-models_shipped validated, always
-favourite_plot a well-labelled boxplot
-p_value        < 0.05  (but I still check the assumptions)
-dtype          perpetually_learning
+curiosity             ████████████████████████  0.24
+statistics            █████████████████████░░░  0.21
+python & r            ██████████████████░░░░░░  0.18
+data engineering      ██████████████░░░░░░░░░░  0.14
+visual storytelling   ████████████░░░░░░░░░░░░  0.12
+ai agents             ███████████░░░░░░░░░░░░░  0.11
+                                          total 1.00
 ```
 
 <br/>
 
-<!-- ═══════════════════════ CELL 3 ═══════════════════════ -->
+## 🔁 `pipeline.run()`
+<sub>how I approach every problem</sub>
 
-<sub>`In [3]:`</sub>
-
-```python
-me.stack(group_by="layer")
+```mermaid
+%%{init: {'theme':'base', 'themeVariables': {'primaryColor':'#0F2027','primaryTextColor':'#ffffff','primaryBorderColor':'#2EC4B6','lineColor':'#2EC4B6','fontFamily':'monospace'}}}%%
+flowchart LR
+    A[("🗃️ raw data")] --> B["🔍 explore"]
+    B -->|"anomalies are clues"| C["❓ question"]
+    C --> D["🧠 model"]
+    D --> E{"✅ validate"}
+    E -->|"p < 0.05 is a checkpoint"| D
+    E -->|"holds up"| F["📊 tell the story"]
 ```
 
-<sub>`Out[3]:`</sub>
+<br/>
+
+## 🛠️ `df.stack()`
 
 <div align="center">
 
-<b>languages</b><br/>
-<img src="https://skillicons.dev/icons?i=py,r,java,c,cs,js,php&theme=dark" />
-
-<br/><br/>
-
-<b>data · databases · cloud</b><br/>
-<img src="https://skillicons.dev/icons?i=sklearn,mysql,sqlite,mongodb,firebase,aws&theme=dark" />
+<img src="https://skillicons.dev/icons?i=py,r,java,c,cs,js,php&theme=dark&perline=7" />
 <br/>
-<img src="https://img.shields.io/badge/Oracle%20·%20PL%2FSQL-F80000?style=flat-square&logo=oracle&logoColor=white" />
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/Apache%20Hop-D22128?style=flat-square&logo=apache&logoColor=white" />
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
-<img src="https://img.shields.io/badge/Portant-17A2B8?style=flat-square" />
+<img src="https://skillicons.dev/icons?i=sklearn,mysql,sqlite,mongodb,firebase,aws&theme=dark&perline=7" />
+<br/>
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,laravel,git,vscode&theme=dark&perline=7" />
+<br/>
+<img src="https://skillicons.dev/icons?i=idea,androidstudio,postman,figma&theme=dark&perline=7" />
 
 <br/><br/>
 
-<b>web</b><br/>
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,laravel&theme=dark" />
-
-<br/><br/>
-
-<b>tools</b><br/>
-<img src="https://skillicons.dev/icons?i=git,vscode,idea,androidstudio,postman,figma&theme=dark" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/statistical%20modeling-0F2027?style=flat-square" />
-<img src="https://img.shields.io/badge/REST%20APIs-0F2027?style=flat-square" />
-<img src="https://img.shields.io/badge/OOP%20·%20design%20patterns-0F2027?style=flat-square" />
-<img src="https://img.shields.io/badge/SDLC-0F2027?style=flat-square" />
-<img src="https://img.shields.io/badge/project%20management-0F2027?style=flat-square" />
+<img src="https://img.shields.io/badge/Oracle%20·%20PL%2FSQL-0F2027?style=for-the-badge&logo=oracle&logoColor=2EC4B6" />
+<img src="https://img.shields.io/badge/Power%20BI-0F2027?style=for-the-badge&logo=powerbi&logoColor=2EC4B6" />
+<img src="https://img.shields.io/badge/Apache%20Hop-0F2027?style=for-the-badge&logo=apache&logoColor=2EC4B6" />
+<img src="https://img.shields.io/badge/n8n-0F2027?style=for-the-badge&logo=n8n&logoColor=2EC4B6" />
+<img src="https://img.shields.io/badge/Portant-0F2027?style=for-the-badge&logoColor=2EC4B6" />
+<br/>
+<img src="https://img.shields.io/badge/Statistical%20Modeling-0F2027?style=for-the-badge" />
+<img src="https://img.shields.io/badge/REST%20APIs-0F2027?style=for-the-badge" />
+<img src="https://img.shields.io/badge/OOP%20·%20Design%20Patterns-0F2027?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SDLC%20·%20Project%20Mgmt-0F2027?style=for-the-badge" />
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════ CELL 4 ═══════════════════════ -->
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<sub>`In [4]:`</sub>
-
-```python
-def solve(problem):
-    explore(problem.data)          # never model what you haven't looked at
-    question(problem.anomalies)    # noise is a clue, not an inconvenience
-    visualize(problem.findings)    # a chart should argue a point, not decorate one
-    validate(problem.result)       # p < 0.05 isn't the finish line, it's a checkpoint
-    return problem.result
-```
-
-<br/>
-
-<!-- ═══════════════════════ CELL 5 ═══════════════════════ -->
-
-<sub>`In [5]:`</sub>
-
-```python
-me.log(since="recently")
-```
-
-<sub>`Out[5]:`</sub>
+## ⏳ `git log --recent`
 
 ```diff
-+ working through AI agent design & orchestration patterns
-+ two-way ANOVA — correction factor method, LSM in R & SAS
-+ semantic network + knowledge model for a hospital domain
-+ designing event experiences with the IEEE SB NIBM design team
-! long-term: turning coursework into real, defensible data pipelines
++ AI agent design & orchestration
++ two-way ANOVA in R & SAS
+  (correction factor, LSM)
++ semantic network for a
+  hospital knowledge domain
++ event design @ IEEE SB NIBM
+! next: coursework → real,
+  defensible data pipelines
 ```
+
+</td>
+<td width="50%" valign="top">
+
+## 🥧 `time.value_counts()`
+
+```mermaid
+%%{init: {'theme':'base', 'themeVariables': {'pie1':'#2EC4B6','pie2':'#1B998B','pie3':'#203A43','pie4':'#3D5A80','pie5':'#98C1D9','pieTitleTextSize':'14px','pieSectionTextColor':'#ffffff'}}}%%
+pie showData
+    title where my hours go
+    "exploring data" : 30
+    "debugging" : 25
+    "reading docs" : 20
+    "modeling" : 15
+    "coffee" : 10
+```
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-<!-- ═══════════════════════ CELL 6 ═══════════════════════ -->
-
-<sub>`In [6]:`</sub>
-
-```python
-plt.show()
-```
-
-<sub>`Out[6]:`</sub>
+## 📈 `plt.show()`
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=AmjadAzward&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github&bg_color=0F2027&title_color=2EC4B6&icon_color=2EC4B6" height="165" />
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AmjadAzward&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F2027&title_color=2EC4B6" height="165" />
+<img src="https://github-stats-extended.vercel.app/api?username=AmjadAzward&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=github&bg_color=0F2027&title_color=2EC4B6&icon_color=2EC4B6&text_color=ffffff" height="170" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AmjadAzward&layout=donut&hide_border=true&bg_color=0F2027&title_color=2EC4B6&text_color=ffffff" height="170" />
 
-<img src="https://streak-stats.demolab.com?user=AmjadAzward&theme=tokyonight&hide_border=true&background=0F2027&ring=2EC4B6&fire=2EC4B6&currStreakLabel=2EC4B6" height="165" />
+<img src="https://streak-stats.demolab.com?user=AmjadAzward&hide_border=true&background=0F2027&ring=2EC4B6&fire=2EC4B6&currStreakLabel=2EC4B6&sideLabels=ffffff&dates=98C1D9&currStreakNum=ffffff&sideNums=ffffff" height="170" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AmjadAzward&bg_color=0F2027&color=2EC4B6&line=2EC4B6&point=ffffff&area=true&area_color=2EC4B6&hide_border=true" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AmjadAzward&bg_color=0F2027&color=ffffff&line=2EC4B6&point=ffffff&area=true&area_color=2EC4B6&hide_border=true&custom_title=commit%20time%20series" width="95%" />
 
-</div>
+<br/><br/>
 
-<br/>
-
-<!-- ═══════════════════════ CELL 7 ═══════════════════════ -->
-
-<sub>`In [7]:`</sub>
-
-```python
-snake.eat(me.contributions)
-```
-
-<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AmjadAzward/AmjadAzward/output/github-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/AmjadAzward/AmjadAzward/output/github-snake.svg" alt="snake" />
+  <img src="https://raw.githubusercontent.com/AmjadAzward/AmjadAzward/output/github-snake.svg" alt="snake eating contributions" />
 </picture>
+
 </div>
 
 <br/>
 
-<!-- ═══════════════════════ CELL 8 ═══════════════════════ -->
+<details>
+<summary><b>🎲 click for a random sample of facts about me</b></summary>
 
-<sub>`In [8]:`</sub>
+<br/>
 
 ```python
-me.contact()   # let's build something
+>>> random.sample(facts, 4)
+[
+  "I believe outliers usually tell the best part of the story",
+  "a well-labelled boxplot is my love language",
+  "I run R and SAS side by side just to see who disagrees",
+  "I design posters by day and debug pipelines by night"
+]
 ```
+
+</details>
+
+<br/>
+
+## 📬 `me.contact()`
 
 <div align="center">
 
@@ -201,20 +198,15 @@ me.contact()   # let's build something
 <a href="mailto:amjadazward693@gmail.com"><img src="https://img.shields.io/badge/Email-0F2027?style=for-the-badge&logo=gmail&logoColor=2EC4B6" /></a>
 <a href="https://x.com/AmjadAzward"><img src="https://img.shields.io/badge/X-0F2027?style=for-the-badge&logo=x&logoColor=2EC4B6" /></a>
 <a href="https://www.kaggle.com/amjadazward"><img src="https://img.shields.io/badge/Kaggle-0F2027?style=for-the-badge&logo=kaggle&logoColor=2EC4B6" /></a>
-<br/>
 <a href="https://leetcode.com/amjadazward"><img src="https://img.shields.io/badge/LeetCode-0F2027?style=for-the-badge&logo=leetcode&logoColor=2EC4B6" /></a>
 <a href="https://www.hackerrank.com/profile/SL_Spark"><img src="https://img.shields.io/badge/HackerRank-0F2027?style=for-the-badge&logo=hackerrank&logoColor=2EC4B6" /></a>
 <a href="https://www.credly.com/users/mohamed-amjad.1b89812f"><img src="https://img.shields.io/badge/Credly-0F2027?style=for-the-badge&logo=credly&logoColor=2EC4B6" /></a>
-<a href="https://learn.microsoft.com/en-us/users/amjadazward-4476/"><img src="https://img.shields.io/badge/Microsoft%20Learn-0F2027?style=for-the-badge&logo=microsoft&logoColor=2EC4B6" /></a>
+<a href="https://learn.microsoft.com/en-us/users/amjadazward-4476/"><img src="https://img.shields.io/badge/MS%20Learn-0F2027?style=for-the-badge&logo=microsoft&logoColor=2EC4B6" /></a>
 
 <br/><br/>
 
-<sub>✦ open to <b>internships</b> and <b>junior data / ML roles</b> · happy to collaborate on <b>data science</b>, <b>ML</b> and <b>AI agent</b> projects ✦</sub>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=98C1D9&center=true&vCenter=true&width=600&lines=%22All+models+are+wrong%2C+but+some+are+useful.%22+%E2%80%94+George+Box;open+to+internships+%26+junior+data+roles+%E2%9C%A6;let's+build+something+defensible." />
 
-<br/><br/>
-
-<i>"All models are wrong, but some are useful." — George Box</i>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2EC4B6,50:203A43,100:0F2027&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2EC4B6,50:203A43,100:0F2027&height=130&section=footer" width="100%" />
 
 </div>
