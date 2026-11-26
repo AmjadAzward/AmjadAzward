@@ -106,38 +106,6 @@ p = 0.04   → reject H0 ✔
 
 <img src="https://skillicons.dev/icons?i=py,r,ts,js,java,c,cs,php,dart,rust,html,css,tailwind,vite,react,nextjs,nodejs,laravel,flask,fastapi,flutter,mysql,postgres,sqlite,mongodb,firebase,supabase,prisma,sklearn,pytorch,tensorflow,opencv,aws,azure,vercel,docker,git,github,githubactions,linux,bash,powershell,vscode,idea,androidstudio,postman,figma,notion&theme=dark&perline=8" alt="Python, R, TypeScript, JavaScript, Java, C, C#, PHP, Dart, Rust, HTML, CSS, Tailwind, Vite, React, Next.js, Node.js, Laravel, Flask, FastAPI, Flutter, MySQL, PostgreSQL, SQLite, MongoDB, Firebase, Supabase, Prisma, scikit-learn, PyTorch, TensorFlow, OpenCV, AWS, Azure, Vercel, Docker, Git, GitHub, GitHub Actions, Linux, Bash, PowerShell, VS Code, IntelliJ, Android Studio, Postman, Figma, Notion" />
 
-<br/><br/>
-
-<img src="https://img.shields.io/badge/pandas-0F2027?style=for-the-badge&logo=pandas&logoColor=2EC4B6" alt="pandas" />
-<img src="https://img.shields.io/badge/NumPy-0F2027?style=for-the-badge&logo=numpy&logoColor=2EC4B6" alt="NumPy" />
-<img src="https://img.shields.io/badge/Matplotlib-0F2027?style=for-the-badge&logo=matplotlib&logoColor=2EC4B6" alt="Matplotlib" />
-<img src="https://img.shields.io/badge/SAS-0F2027?style=for-the-badge" alt="SAS" />
-<img src="https://img.shields.io/badge/PL%2FSQL-0F2027?style=for-the-badge&logo=oracle&logoColor=2EC4B6" alt="PL/SQL" />
-<img src="https://img.shields.io/badge/Power%20BI-0F2027?style=for-the-badge&logo=powerbi&logoColor=2EC4B6" alt="Power BI" />
-<img src="https://img.shields.io/badge/Jupyter-0F2027?style=for-the-badge&logo=jupyter&logoColor=2EC4B6" alt="Jupyter" />
-<img src="https://img.shields.io/badge/seaborn-0F2027?style=for-the-badge" alt="seaborn" />
-<img src="https://img.shields.io/badge/Statistical%20Modeling-0F2027?style=for-the-badge" alt="Statistical Modeling" />
-<img src="https://img.shields.io/badge/TanStack%20Start-0F2027?style=for-the-badge" alt="TanStack Start" />
-<img src="https://img.shields.io/badge/REST%20APIs-0F2027?style=for-the-badge" alt="REST APIs" />
-<img src="https://img.shields.io/badge/Azure%20Functions-0F2027?style=for-the-badge&logo=azurefunctions&logoColor=2EC4B6" alt="Azure Functions" />
-<img src="https://img.shields.io/badge/Ollama-0F2027?style=for-the-badge&logo=ollama&logoColor=2EC4B6" alt="Ollama" />
-<img src="https://img.shields.io/badge/n8n-0F2027?style=for-the-badge&logo=n8n&logoColor=2EC4B6" alt="n8n" />
-<img src="https://img.shields.io/badge/Apache%20Hop-0F2027?style=for-the-badge&logo=apache&logoColor=2EC4B6" alt="Apache Hop" />
-<img src="https://img.shields.io/badge/Hugging%20Face-0F2027?style=for-the-badge&logo=huggingface&logoColor=2EC4B6" alt="Hugging Face" />
-<img src="https://img.shields.io/badge/LangChain-0F2027?style=for-the-badge&logo=langchain&logoColor=2EC4B6" alt="LangChain" />
-<img src="https://img.shields.io/badge/React%20Flow-0F2027?style=for-the-badge" alt="React Flow" />
-<img src="https://img.shields.io/badge/SQL-0F2027?style=for-the-badge" alt="SQL" />
-<img src="https://img.shields.io/badge/Excel-0F2027?style=for-the-badge&logo=microsoftexcel&logoColor=2EC4B6" alt="Excel" />
-<img src="https://img.shields.io/badge/Google%20Sheets-0F2027?style=for-the-badge&logo=googlesheets&logoColor=2EC4B6" alt="Google Sheets" />
-<img src="https://img.shields.io/badge/Microsoft%20Office-0F2027?style=for-the-badge&logo=microsoftoffice&logoColor=2EC4B6" alt="Microsoft Office" />
-<img src="https://img.shields.io/badge/Canva-0F2027?style=for-the-badge&logo=canva&logoColor=2EC4B6" alt="Canva" />
-<img src="https://img.shields.io/badge/ClickUp-0F2027?style=for-the-badge&logo=clickup&logoColor=2EC4B6" alt="ClickUp" />
-<img src="https://img.shields.io/badge/Python%20Stdlib-0F2027?style=for-the-badge&logo=python&logoColor=2EC4B6" alt="Python Stdlib" />
-<img src="https://img.shields.io/badge/Vanilla%20JS-0F2027?style=for-the-badge&logo=javascript&logoColor=2EC4B6" alt="Vanilla JS" />
-<img src="https://img.shields.io/badge/Portant-0F2027?style=for-the-badge" alt="Portant" />
-<img src="https://img.shields.io/badge/OOP%20·%20Design%20Patterns-0F2027?style=for-the-badge" alt="OOP · Design Patterns" />
-<img src="https://img.shields.io/badge/SDLC%20·%20Project%20Mgmt-0F2027?style=for-the-badge" alt="SDLC · Project Mgmt" />
-
 </div>
 
 <br/>
