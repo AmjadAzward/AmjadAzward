@@ -229,7 +229,7 @@ outlier #2: the decimal was fine.
 <a href="https://www.kaggle.com/amjadazward"><img src="https://img.shields.io/badge/Kaggle-0F2027?style=for-the-badge&logo=kaggle&logoColor=2EC4B6" alt="Kaggle" /></a>
 <a href="https://leetcode.com/amjadazward"><img src="https://img.shields.io/badge/LeetCode-0F2027?style=for-the-badge&logo=leetcode&logoColor=2EC4B6" alt="LeetCode" /></a>
 <a href="https://www.hackerrank.com/profile/SL_Spark"><img src="https://img.shields.io/badge/HackerRank-0F2027?style=for-the-badge&logo=hackerrank&logoColor=2EC4B6" alt="HackerRank" /></a>
-<a href="https://www.credly.com/users/mohamed-amjad.1b89812f"><img src="https://img.shields.io/badge/Credly-0F2027?style=for-the-badge&logo=credly&logoColor=2EC4B6" alt="Credly" /></a>
-<a href="https://learn.microsoft.com/en-us/users/amjadazward-4476/"><img src="https://img.shields.io/badge/MS%20Learn-0F2027?style=for-the-badge&logo=microsoft&logoColor=2EC4B6" alt="MS Learn" /></a>
+<a href="https://www.credly.com/users/amjadazward"><img src="https://img.shields.io/badge/Credly-0F2027?style=for-the-badge&logo=credly&logoColor=2EC4B6" alt="Credly" /></a>
+<a href="https://learn.microsoft.com/en-us/users/amjadazward/"><img src="https://img.shields.io/badge/MS%20Learn-0F2027?style=for-the-badge&logo=microsoft&logoColor=2EC4B6" alt="MS Learn" /></a>
 
 </div>
