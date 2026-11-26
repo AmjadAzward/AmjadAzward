@@ -64,15 +64,15 @@ Out[4]: True   # ← you are here
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=1000&color=2EC4B6&vCenter=true&repeat=false&width=470&height=40&lines=%F0%9F%A7%AC%20model.feature_importances_" alt="🧬 model.feature_importances_" />
 <sub>what drives my work, according to a very biased model</sub>
 
-```text
-curiosity           ████████████████████ 0.24
-statistics          █████████████████░░░ 0.21
-python & r          ███████████████░░░░░ 0.18
-data engineering    ███████████░░░░░░░░░ 0.14
-visual storytelling ██████████░░░░░░░░░░ 0.12
-ai agents           █████████░░░░░░░░░░░ 0.11
-                                  total 1.00
-```
+| feature | importance |
+|---|---|
+| **curiosity** | 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 `0.24` |
+| **statistics** | 🟩🟩🟩🟩🟩🟩🟩🟩 `0.21` |
+| **python & r** | 🟨🟨🟨🟨🟨🟨🟨 `0.18` |
+| **data engineering** | 🟧🟧🟧🟧🟧🟧 `0.14` |
+| **visual storytelling** | 🟪🟪🟪🟪🟪 `0.12` |
+| **ai agents** | 🟥🟥🟥🟥 `0.11` |
+| | **total** `1.00` |
 
 <br/>
 
