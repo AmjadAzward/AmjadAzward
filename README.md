@@ -25,13 +25,17 @@ In [4]: amjad.is_open_to_work()
 Out[4]: True   # ← you are here
 ```
 
+> [!NOTE]
+> I turn **messy data** into **models I can defend** and **charts that argue a point**.
+> Outliers are my favourite part of any dataset. Right now I'm deep into **AI agents** and designing events with the **IEEE SB NIBM** Design Team.
+
 > [!TIP]
 > **🟢 Open to work:** internships & junior roles in **data science · ML · data engineering**.
 > Let's talk → [LinkedIn](https://www.linkedin.com/in/amjad-a-076262297) · [Email](mailto:amjadazward693@gmail.com)
 
 <br/>
 
-## 🧾 `amjad.describe()`
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=1000&color=2EC4B6&vCenter=true&repeat=false&width=320&height=40&lines=%F0%9F%A7%BE%20amjad.describe%28%29" alt="🧾 amjad.describe()" />
 
 | stat | value |
 |---|---|
@@ -46,7 +50,7 @@ Out[4]: True   # ← you are here
 
 <br/>
 
-## 🧪 Experiments
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=1000&color=2EC4B6&vCenter=true&repeat=false&width=260&height=40&lines=%F0%9F%A7%AA%20Experiments" alt="🧪 Experiments" />
 
 | 🔬 Experiment | 🧫 Hypothesis | 📌 Status |
 |---|---|---|
@@ -57,7 +61,7 @@ Out[4]: True   # ← you are here
 
 <br/>
 
-## 🧬 `model.feature_importances_`
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=1000&color=2EC4B6&vCenter=true&repeat=false&width=470&height=40&lines=%F0%9F%A7%AC%20model.feature_importances_" alt="🧬 model.feature_importances_" />
 <sub>what drives my work, according to a very biased model</sub>
 
 ```text
@@ -72,7 +76,7 @@ ai agents           █████████░░░░░░░░░░░
 
 <br/>
 
-## 🔁 `pipeline.run()`
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=1000&color=2EC4B6&vCenter=true&repeat=false&width=290&height=40&lines=%F0%9F%94%81%20pipeline.run%28%29" alt="🔁 pipeline.run()" />
 
 ```mermaid
 %%{init: {'theme':'base', 'themeVariables': {'primaryColor':'#0F2027','primaryTextColor':'#ffffff','primaryBorderColor':'#2EC4B6','lineColor':'#2EC4B6','fontFamily':'monospace'}}}%%
@@ -87,7 +91,7 @@ flowchart TB
 
 <br/>
 
-## ⚖️ Hypothesis test
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=1000&color=2EC4B6&vCenter=true&repeat=false&width=320&height=40&lines=%E2%9A%96%EF%B8%8F%20Hypothesis%20test" alt="⚖️ Hypothesis test" />
 
 ```text
 H0: this README is just another
@@ -100,7 +104,7 @@ p = 0.04   → reject H0 ✔
 
 <br/>
 
-## 🛠️ `df.stack()`
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=1000&color=2EC4B6&vCenter=true&repeat=false&width=260&height=40&lines=%F0%9F%9B%A0%EF%B8%8F%20df.stack%28%29" alt="🛠️ df.stack()" />
 
 <div align="center">
 
@@ -110,7 +114,7 @@ p = 0.04   → reject H0 ✔
 
 <br/>
 
-## ⏳ `git log --recent`
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=1000&color=2EC4B6&vCenter=true&repeat=false&width=320&height=40&lines=%E2%8F%B3%20git%20log%20--recent" alt="⏳ git log --recent" />
 
 ```diff
 + AI agent design & orchestration
@@ -136,8 +140,7 @@ pie showData
 
 <br/>
 
-## 📈 `plt.show()`
-<sub>my GitHub activity, plotted</sub>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=1000&color=2EC4B6&vCenter=true&repeat=false&width=260&height=40&lines=%F0%9F%93%88%20plt.show%28%29" alt="📈 plt.show()" />
 
 ### 🧮 `stats.summary()` — the overview
 
@@ -209,8 +212,7 @@ outlier #2: the decimal was fine.
 
 <br/>
 
-## 📬 `me.contact()`
-<sub>got a dataset, an idea or an opening? let's talk.</sub>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=1000&color=2EC4B6&vCenter=true&repeat=false&width=260&height=40&lines=%F0%9F%93%AC%20me.contact%28%29" alt="📬 me.contact()" />
 
 ```python
 >>> amjad.reply_time()
