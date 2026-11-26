@@ -137,27 +137,40 @@ pie showData
 <br/>
 
 ## 📈 `plt.show()`
+<sub>my GitHub activity, plotted</sub>
+
+### 🧮 `stats.summary()` — the overview
 
 <div align="center">
 
 <img src="https://github-stats-extended.vercel.app/api?username=AmjadAzward&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=github&bg_color=0F2027&title_color=2EC4B6&icon_color=2EC4B6&text_color=ffffff" alt="GitHub stats" />
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AmjadAzward&layout=donut&hide_border=true&bg_color=0F2027&title_color=2EC4B6&text_color=ffffff" alt="Top languages" />
 
-<br/>
+</div>
+
+### 🔥 `streak.plot()` — consistency
+
+<div align="center">
 
 <img src="https://streak-stats.demolab.com?user=AmjadAzward&hide_border=true&background=0F2027&ring=2EC4B6&fire=2EC4B6&currStreakLabel=2EC4B6&sideLabels=ffffff&dates=98C1D9&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub streak" />
 
-<br/>
+</div>
+
+### 📉 `ts.plot()` — commit time series
+
+<div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmjadAzward&bg_color=0F2027&color=ffffff&line=2EC4B6&point=ffffff&area=true&area_color=2EC4B6&hide_border=true&custom_title=commit%20time%20series" width="100%" alt="Commit activity" />
 
 </div>
 
 <details>
-<summary><b>🗓️ open the contribution heatmap</b></summary>
+<summary><b>🗓️ <code>sns.heatmap()</code> — open the contribution heatmap</b></summary>
 <br/>
 <div align="center"><img src="https://ghchart.rshah.org/2EC4B6/AmjadAzward" width="100%" alt="Contribution heatmap" /></div>
 </details>
+
+<br/>
 
 <details>
 <summary><b>🎲 click for a random sample of facts about me</b></summary>
