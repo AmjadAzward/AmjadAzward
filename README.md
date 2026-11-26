@@ -223,13 +223,13 @@ outlier #2: the decimal was fine.
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/amjad-a-076262297"><img src="https://img.shields.io/badge/LinkedIn-0F2027?style=for-the-badge&logo=linkedin&logoColor=2EC4B6" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/amjad-a-076262297"><img src="https://img.shields.io/badge/LinkedIn-0F2027?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzJFQzRCNiI%2BPHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B" alt="LinkedIn" /></a>
 <a href="mailto:amjadazward693@gmail.com"><img src="https://img.shields.io/badge/Email-0F2027?style=for-the-badge&logo=gmail&logoColor=2EC4B6" alt="Email" /></a>
 <a href="https://x.com/AmjadAzward"><img src="https://img.shields.io/badge/X-0F2027?style=for-the-badge&logo=x&logoColor=2EC4B6" alt="X" /></a>
 <a href="https://www.kaggle.com/amjadazward"><img src="https://img.shields.io/badge/Kaggle-0F2027?style=for-the-badge&logo=kaggle&logoColor=2EC4B6" alt="Kaggle" /></a>
 <a href="https://leetcode.com/amjadazward"><img src="https://img.shields.io/badge/LeetCode-0F2027?style=for-the-badge&logo=leetcode&logoColor=2EC4B6" alt="LeetCode" /></a>
 <a href="https://www.hackerrank.com/profile/SL_Spark"><img src="https://img.shields.io/badge/HackerRank-0F2027?style=for-the-badge&logo=hackerrank&logoColor=2EC4B6" alt="HackerRank" /></a>
 <a href="https://www.credly.com/users/amjadazward"><img src="https://img.shields.io/badge/Credly-0F2027?style=for-the-badge&logo=credly&logoColor=2EC4B6" alt="Credly" /></a>
-<a href="https://learn.microsoft.com/en-us/users/amjadazward/"><img src="https://img.shields.io/badge/MS%20Learn-0F2027?style=for-the-badge&logo=microsoft&logoColor=2EC4B6" alt="MS Learn" /></a>
+<a href="https://learn.microsoft.com/en-us/users/amjadazward/"><img src="https://img.shields.io/badge/MS%20Learn-0F2027?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzJFQzRCNiI%2BPHBhdGggZD0iTTEgMWgxMC41djEwLjVIMXpNMTIuNSAxSDIzdjEwLjVIMTIuNXpNMSAxMi41aDEwLjVWMjNIMXpNMTIuNSAxMi41SDIzVjIzSDEyLjV6Ii8%2BPC9zdmc%2B" alt="MS Learn" /></a>
 
 </div>
