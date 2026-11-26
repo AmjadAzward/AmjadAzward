@@ -1,14 +1,26 @@
 <div align="center">
 
-<img src="assets/hero.svg" width="100%" alt="Hi, I'm Amjad. I make data confess." />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0F2027,50:203A43,100:2EC4B6&height=230&section=header&text=Amjad%20Azward&fontSize=60&fontColor=ffffff&fontAlignY=40&desc=I%20make%20data%20confess.&descSize=18&descAlignY=62&animation=twinkling" width="100%" alt="Hi, I'm Amjad. I make data confess." />
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=2EC4B6&center=true&vCenter=true&width=600&lines=%3E+loading+dataset...+done.;%3E+cleaning+noise...+done.;%3E+fitting+model...+r%C2%B2+%3D+0.97;%3E+status%3A+OPEN+TO+WORK+%E2%9C%A6" alt="loading dataset, cleaning noise, fitting model, open to work" />
 
-<img src="assets/terminal.svg" width="100%" alt="whoami / cat now.txt" />
+<p>
+<img src="https://img.shields.io/badge/●%20AVAILABLE%20FOR%20WORK-2EC4B6?style=for-the-badge&labelColor=0F2027" alt="Available for work" />
+<img src="https://img.shields.io/badge/DATA%20SCIENCE%20@%20NIBM-0F2027?style=for-the-badge" alt="Data Science at NIBM" />
+<img src="https://img.shields.io/badge/🇱🇰%20SRI%20LANKA-0F2027?style=for-the-badge" alt="Sri Lanka" />
+</p>
 
 </div>
 
-<br/>
+```bash
+$ whoami
+amjad — data science undergrad @ NIBM, Sri Lanka
+
+$ cat now.txt
+> deep into AI agent architectures
+> designing events with the IEEE SB NIBM Design Team
+> coffee_level = "dangerously high"
+```
 
 > [!TIP]
 > **🟢 Open to work:** internships & junior roles in **data science · ML · data engineering**.
@@ -16,36 +28,37 @@
 
 <br/>
 
-<img src="assets/h_build.svg" height="60" alt="What I build" />
+## 🧪 What I build
 
-<div align="center">
-<table>
-<tr>
-<td><a href="https://github.com/AmjadAzward"><img src="assets/proj_agent.svg" width="390" alt="AI Agent Lab" /></a></td>
-<td><a href="https://github.com/AmjadAzward"><img src="assets/proj_anova.svg" width="390" alt="ANOVA in R & SAS" /></a></td>
-</tr>
-<tr>
-<td><a href="https://github.com/AmjadAzward"><img src="assets/proj_semantic.svg" width="390" alt="Semantic Network" /></a></td>
-<td><a href="https://github.com/AmjadAzward"><img src="assets/proj_design.svg" width="390" alt="IEEE SB Design" /></a></td>
-</tr>
-</table>
-</div>
+| Project | What it is |
+|---|---|
+| 🤖 **AI Agent Lab** | Designing and orchestrating AI agents |
+| 📐 **ANOVA in R & SAS** | Two-way ANOVA with correction factor and LSM, run side by side |
+| 🕸️ **Semantic Network** | Knowledge model for a hospital domain |
+| 🎨 **IEEE SB Design** | Event design for the IEEE SB NIBM Design Team |
 
 <br/>
 
-<img src="assets/h_drives.svg" height="60" alt="What drives me" />
+## 🧬 What drives me
+<sub>`model.feature_importances_` — according to a very biased model</sub>
 
-<div align="center">
-<img src="assets/features.svg" width="100%" alt="feature importances" />
-</div>
+```text
+curiosity           ████████████████████ 0.24
+statistics          █████████████████░░░ 0.21
+python & r          ███████████████░░░░░ 0.18
+data engineering    ███████████░░░░░░░░░ 0.14
+visual storytelling ██████████░░░░░░░░░░ 0.12
+ai agents           █████████░░░░░░░░░░░ 0.11
+                                  total 1.00
+```
 
 <br/>
 
-<img src="assets/h_think.svg" height="60" alt="How I think" />
+## 🔁 How I think
 
 ```mermaid
 %%{init: {'theme':'base', 'themeVariables': {'primaryColor':'#0F2027','primaryTextColor':'#ffffff','primaryBorderColor':'#2EC4B6','lineColor':'#2EC4B6','fontFamily':'monospace'}}}%%
-flowchart LR
+flowchart TB
     A[("🗃️ raw data")] --> B["🔍 explore"]
     B -->|"anomalies are clues"| C["❓ question"]
     C --> D["🧠 model"]
@@ -56,19 +69,33 @@ flowchart LR
 
 <br/>
 
-<img src="assets/h_toolkit.svg" height="60" alt="My toolkit" />
+## 🛠️ My toolkit
 
 <div align="center">
-<img src="assets/skills.svg" width="100%" alt="skills" />
+
+<img src="https://skillicons.dev/icons?i=py,r,java,c,cs,js,php,html,css,react&theme=dark&perline=5" alt="Python, R, Java, C, C#, JavaScript, PHP, HTML, CSS, React" />
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,laravel,sklearn,mysql,sqlite,mongodb,firebase,aws,git,vscode&theme=dark&perline=5" alt="Node.js, Laravel, scikit-learn, MySQL, SQLite, MongoDB, Firebase, AWS, Git, VS Code" />
+<br/>
+<img src="https://skillicons.dev/icons?i=idea,androidstudio,postman,figma&theme=dark&perline=4" alt="IntelliJ, Android Studio, Postman, Figma" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Oracle%20·%20PL%2FSQL-0F2027?style=for-the-badge&logo=oracle&logoColor=2EC4B6" alt="Oracle PL/SQL" />
+<img src="https://img.shields.io/badge/Power%20BI-0F2027?style=for-the-badge&logo=powerbi&logoColor=2EC4B6" alt="Power BI" />
+<img src="https://img.shields.io/badge/Apache%20Hop-0F2027?style=for-the-badge&logo=apache&logoColor=2EC4B6" alt="Apache Hop" />
+<img src="https://img.shields.io/badge/n8n-0F2027?style=for-the-badge&logo=n8n&logoColor=2EC4B6" alt="n8n" />
+<img src="https://img.shields.io/badge/Portant-0F2027?style=for-the-badge" alt="Portant" />
+<img src="https://img.shields.io/badge/Statistical%20Modeling-0F2027?style=for-the-badge" alt="Statistical Modeling" />
+<img src="https://img.shields.io/badge/REST%20APIs-0F2027?style=for-the-badge" alt="REST APIs" />
+<img src="https://img.shields.io/badge/OOP%20·%20Design%20Patterns-0F2027?style=for-the-badge" alt="OOP and Design Patterns" />
+<img src="https://img.shields.io/badge/SDLC%20·%20Project%20Mgmt-0F2027?style=for-the-badge" alt="SDLC and Project Management" />
+
 </div>
 
 <br/>
 
-<img src="assets/h_recent.svg" height="60" alt="Lately" />
-
-<table>
-<tr>
-<td width="50%" valign="top">
+## ⏳ Lately
 
 ```diff
 + AI agent design & orchestration
@@ -81,9 +108,6 @@ flowchart LR
   defensible data pipelines
 ```
 
-</td>
-<td width="50%" valign="top">
-
 ```mermaid
 %%{init: {'theme':'base', 'themeVariables': {'pie1':'#2EC4B6','pie2':'#1B998B','pie3':'#203A43','pie4':'#3D5A80','pie5':'#98C1D9','pieTitleTextSize':'14px','pieSectionTextColor':'#ffffff'}}}%%
 pie showData
@@ -95,24 +119,29 @@ pie showData
     "coffee" : 10
 ```
 
-</td>
-</tr>
-</table>
+<br/>
+
+## 📈 By the numbers
+
+<div align="center">
+
+<img src="https://github-stats-extended.vercel.app/api?username=AmjadAzward&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=github&bg_color=0F2027&title_color=2EC4B6&icon_color=2EC4B6&text_color=ffffff" alt="GitHub stats" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AmjadAzward&layout=donut&hide_border=true&bg_color=0F2027&title_color=2EC4B6&text_color=ffffff" alt="Top languages" />
 
 <br/>
 
-<img src="assets/h_numbers.svg" height="60" alt="By the numbers" />
+<img src="https://streak-stats.demolab.com?user=AmjadAzward&hide_border=true&background=0F2027&ring=2EC4B6&fire=2EC4B6&currStreakLabel=2EC4B6&sideLabels=ffffff&dates=98C1D9&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub streak" />
 
-<div align="center">
-<img src="assets/stats.svg" width="100%" alt="GitHub stats" />
-<br/><br/>
-<img src="assets/trend.svg" width="100%" alt="last 30 days" />
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AmjadAzward&bg_color=0F2027&color=ffffff&line=2EC4B6&point=ffffff&area=true&area_color=2EC4B6&hide_border=true&custom_title=commit%20time%20series" width="100%" alt="Commit activity, last 30 days" />
+
 </div>
 
 <details>
-<summary><b>🗓️ open the 6-month heatmap (with the actual numbers)</b></summary>
+<summary><b>🗓️ open the contribution heatmap</b></summary>
 <br/>
-<div align="center"><img src="assets/heatmap.svg" width="100%" alt="6-month heatmap" /></div>
+<div align="center"><img src="https://ghchart.rshah.org/2EC4B6/AmjadAzward" width="100%" alt="Contribution heatmap" /></div>
 </details>
 
 <details>
@@ -123,10 +152,14 @@ pie showData
 ```python
 >>> random.sample(facts, 4)
 [
-  "I believe outliers usually tell the best part of the story",
-  "a well-labelled boxplot is my love language",
-  "I run R and SAS side by side just to see who disagrees",
-  "I design posters by day and debug pipelines by night"
+  "I believe outliers usually tell
+   the best part of the story",
+  "a well-labelled boxplot is
+   my love language",
+  "I run R and SAS side by side
+   just to see who disagrees",
+  "I design posters by day and
+   debug pipelines by night"
 ]
 ```
 
@@ -134,23 +167,23 @@ pie showData
 
 <br/>
 
-<img src="assets/h_hello.svg" height="60" alt="Say hello" />
+## 📬 Say hello
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/amjad-a-076262297"><img src="assets/c_linkedin.svg" alt="LinkedIn" /></a>
-<a href="mailto:amjadazward693@gmail.com"><img src="assets/c_email.svg" alt="Email" /></a>
-<a href="https://x.com/AmjadAzward"><img src="assets/c_x.svg" alt="X" /></a>
-<br/>
-<a href="https://www.kaggle.com/amjadazward"><img src="assets/c_kaggle.svg" alt="Kaggle" /></a>
-<a href="https://leetcode.com/amjadazward"><img src="assets/c_leetcode.svg" alt="LeetCode" /></a>
-<a href="https://www.hackerrank.com/profile/SL_Spark"><img src="assets/c_hackerrank.svg" alt="HackerRank" /></a>
-<a href="https://www.credly.com/users/mohamed-amjad.1b89812f"><img src="assets/c_credly.svg" alt="Credly" /></a>
-<a href="https://learn.microsoft.com/en-us/users/amjadazward-4476/"><img src="assets/c_mslearn.svg" alt="MS Learn" /></a>
+<a href="https://www.linkedin.com/in/amjad-a-076262297"><img src="https://img.shields.io/badge/LinkedIn-0F2027?style=for-the-badge&logo=linkedin&logoColor=2EC4B6" alt="LinkedIn" /></a>
+<a href="mailto:amjadazward693@gmail.com"><img src="https://img.shields.io/badge/Email-0F2027?style=for-the-badge&logo=gmail&logoColor=2EC4B6" alt="Email" /></a>
+<a href="https://x.com/AmjadAzward"><img src="https://img.shields.io/badge/X-0F2027?style=for-the-badge&logo=x&logoColor=2EC4B6" alt="X" /></a>
+<a href="https://www.kaggle.com/amjadazward"><img src="https://img.shields.io/badge/Kaggle-0F2027?style=for-the-badge&logo=kaggle&logoColor=2EC4B6" alt="Kaggle" /></a>
+<a href="https://leetcode.com/amjadazward"><img src="https://img.shields.io/badge/LeetCode-0F2027?style=for-the-badge&logo=leetcode&logoColor=2EC4B6" alt="LeetCode" /></a>
+<a href="https://www.hackerrank.com/profile/SL_Spark"><img src="https://img.shields.io/badge/HackerRank-0F2027?style=for-the-badge&logo=hackerrank&logoColor=2EC4B6" alt="HackerRank" /></a>
+<a href="https://www.credly.com/users/mohamed-amjad.1b89812f"><img src="https://img.shields.io/badge/Credly-0F2027?style=for-the-badge&logo=credly&logoColor=2EC4B6" alt="Credly" /></a>
+<a href="https://learn.microsoft.com/en-us/users/amjadazward-4476/"><img src="https://img.shields.io/badge/MS%20Learn-0F2027?style=for-the-badge&logo=microsoft&logoColor=2EC4B6" alt="MS Learn" /></a>
 
 <br/><br/>
 
-<sub><i>"All models are wrong, but some are useful." — George Box</i></sub><br/>
-<sub>Drawn in my own teal design system · numbers redrawn every night by a GitHub Action</sub>
+<sub><i>"All models are wrong, but some are useful." — George Box</i></sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2EC4B6,50:203A43,100:0F2027&height=130&section=footer" width="100%" alt="" />
 
 </div>
