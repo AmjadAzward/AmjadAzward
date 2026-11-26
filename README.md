@@ -104,40 +104,22 @@ p = 0.04   → reject H0 ✔
 
 <div align="center">
 
-**🧠 Languages**<br/>
-<img src="https://skillicons.dev/icons?i=py,r,ts,js,java,c,cs,php,dart,rust&theme=dark&perline=5" alt="Python, R, TypeScript, JavaScript, Java, C, C#, PHP, Dart, Rust" />
-<br/>
+<img src="https://skillicons.dev/icons?i=py,r,ts,js,java,c,cs,php,dart,rust,html,css,tailwind,react,nextjs,nodejs,laravel,flask,fastapi,flutter,mysql,postgres,sqlite,mongodb,firebase,supabase,prisma,sklearn,pandas,numpy,matplotlib,aws,azure,vercel,docker,git,vscode,idea,androidstudio,postman,figma&theme=dark&perline=8" alt="Python, R, TypeScript, JavaScript, Java, C, C#, PHP, Dart, Rust, HTML, CSS, Tailwind, React, Next.js, Node.js, Laravel, Flask, FastAPI, Flutter, MySQL, PostgreSQL, SQLite, MongoDB, Firebase, Supabase, Prisma, scikit-learn, pandas, NumPy, Matplotlib, AWS, Azure, Vercel, Docker, Git, VS Code, IntelliJ, Android Studio, Postman, Figma" />
+
+<br/><br/>
+
 <img src="https://img.shields.io/badge/SAS-0F2027?style=for-the-badge" alt="SAS" />
 <img src="https://img.shields.io/badge/PL%2FSQL-0F2027?style=for-the-badge&logo=oracle&logoColor=2EC4B6" alt="PL/SQL" />
-
-**🌐 Web & Apps**<br/>
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,nodejs,laravel,flask,fastapi,flutter&theme=dark&perline=5" alt="HTML, CSS, Tailwind, React, Next.js, Node.js, Laravel, Flask, FastAPI, Flutter" />
-<br/>
+<img src="https://img.shields.io/badge/Power%20BI-0F2027?style=for-the-badge&logo=powerbi&logoColor=2EC4B6" alt="Power BI" />
+<img src="https://img.shields.io/badge/Jupyter-0F2027?style=for-the-badge&logo=jupyter&logoColor=2EC4B6" alt="Jupyter" />
+<img src="https://img.shields.io/badge/seaborn-0F2027?style=for-the-badge" alt="seaborn" />
+<img src="https://img.shields.io/badge/Statistical%20Modeling-0F2027?style=for-the-badge" alt="Statistical Modeling" />
 <img src="https://img.shields.io/badge/TanStack%20Start-0F2027?style=for-the-badge" alt="TanStack Start" />
 <img src="https://img.shields.io/badge/REST%20APIs-0F2027?style=for-the-badge" alt="REST APIs" />
-
-**🗄️ Data & Backend**<br/>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,firebase,supabase,prisma&theme=dark&perline=7" alt="MySQL, PostgreSQL, SQLite, MongoDB, Firebase, Supabase, Prisma" />
-
-**📊 Data Science**<br/>
-<img src="https://skillicons.dev/icons?i=sklearn,pandas,numpy,matplotlib&theme=dark&perline=4" alt="scikit-learn, pandas, NumPy, Matplotlib" />
-<br/>
-<img src="https://img.shields.io/badge/seaborn-0F2027?style=for-the-badge" alt="seaborn" />
-<img src="https://img.shields.io/badge/Jupyter-0F2027?style=for-the-badge&logo=jupyter&logoColor=2EC4B6" alt="Jupyter" />
-<img src="https://img.shields.io/badge/Power%20BI-0F2027?style=for-the-badge&logo=powerbi&logoColor=2EC4B6" alt="Power BI" />
-<img src="https://img.shields.io/badge/Statistical%20Modeling-0F2027?style=for-the-badge" alt="Statistical Modeling" />
-
-**☁️ Cloud, Deploy & AI**<br/>
-<img src="https://skillicons.dev/icons?i=aws,azure,vercel,docker&theme=dark&perline=4" alt="AWS, Azure, Vercel, Docker" />
-<br/>
 <img src="https://img.shields.io/badge/Azure%20Functions-0F2027?style=for-the-badge&logo=azurefunctions&logoColor=2EC4B6" alt="Azure Functions" />
 <img src="https://img.shields.io/badge/Ollama-0F2027?style=for-the-badge&logo=ollama&logoColor=2EC4B6" alt="Ollama" />
 <img src="https://img.shields.io/badge/n8n-0F2027?style=for-the-badge&logo=n8n&logoColor=2EC4B6" alt="n8n" />
 <img src="https://img.shields.io/badge/Apache%20Hop-0F2027?style=for-the-badge&logo=apache&logoColor=2EC4B6" alt="Apache Hop" />
-
-**🧰 Tools & Practices**<br/>
-<img src="https://skillicons.dev/icons?i=git,vscode,idea,androidstudio,postman,figma&theme=dark&perline=6" alt="Git, VS Code, IntelliJ, Android Studio, Postman, Figma" />
-<br/>
 <img src="https://img.shields.io/badge/Portant-0F2027?style=for-the-badge" alt="Portant" />
 <img src="https://img.shields.io/badge/OOP%20·%20Design%20Patterns-0F2027?style=for-the-badge" alt="OOP · Design Patterns" />
 <img src="https://img.shields.io/badge/SDLC%20·%20Project%20Mgmt-0F2027?style=for-the-badge" alt="SDLC · Project Mgmt" />
